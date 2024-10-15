@@ -1,4 +1,4 @@
-# Custom Dropdown
+# Task Tracker
 
 This project is a simple implementation of a task tracker app using HTML, CSS, and JavaScript.  
 It was completed as part of a project from [roadmap.sh](https://roadmap.sh/).
